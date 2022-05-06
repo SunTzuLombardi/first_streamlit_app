@@ -41,7 +41,7 @@ streamlit.dataframe(my_data_rows)
 
 #NEW SECTIOn to display fruityapi response
 fruit_choice2 = streamlit.text_input('What fruit would you like to add?','jackfruit')
-streamlit.write('Thanks for entering',fruit_choice)
+streamlit.write('Thanks for entering',fruit_choice2)
 
 
 
